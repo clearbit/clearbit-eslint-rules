@@ -1,0 +1,11 @@
+{
+  "name": "cb-eslint-plugin-clearbit-x",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha ./tests/**/*.js"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
