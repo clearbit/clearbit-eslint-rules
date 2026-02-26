@@ -6,6 +6,6 @@
     "test": "mocha ./tests/**/*.js"
   },
   "dependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^11.7.5"
   }
 }
